@@ -1,6 +1,10 @@
-computer_choice = 'scissors'
+import random
+
+computer_choice = random.choice(['rock', 'paper', 'scissors',])
 user_choice = input('Do you want rock, paper or scissors?\n')
 user_won = "Great you won..!"
+
+print(f"Computer choice is {computer_choice}")
 
 if computer_choice == user_choice:
     print("It's a TIE")
