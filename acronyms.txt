@@ -1,0 +1,16 @@
+IDE - Integrated Development Environment
+OOP - Object Oriented Programming
+UX - User Experience
+JSON - Javascript Object Notation
+FIFO - First In First Out
+LIFO - Last In First Out
+TDD - Test Driven Development
+SasS - Software as a Service
+PaaS - Platform as a Service
+IaaS - Infrastructure as a Service
+CSS - Cascade Style Sheet
+HTML - Hypertext Markup Language
+MD - MarkDown
+API - Application Programming Interface
+SFC - Single File Cop=mponent
+BEM - Block Element Module
