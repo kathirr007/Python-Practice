@@ -1,3 +1,5 @@
+"""Organizes files in the given directory into subfolders based on file type."""
+
 import os
 import shutil
 
